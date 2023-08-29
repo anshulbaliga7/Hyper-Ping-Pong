@@ -1,4 +1,4 @@
-## HyperEntropicPingPong
+## HyperPingPong
 A beginner ping pong game made using html and javascript.
 
 It's ping pong, but not really.
